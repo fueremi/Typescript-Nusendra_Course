@@ -5,3 +5,22 @@
 - Classes (interface, abstract, class)
 - Function (void, return function, generic function)
 - Good real case examples
+
+## To run 
+
+Npm Or yarn
+- Build
+  
+  ```javascript
+  [npm][yarn] tsc
+  ```
+- Watch every changes
+  
+  ```javascript
+  [npm][yarn] ts
+  ```
+- Watch result every changes
+  
+  ```javascript
+  [npm][yarn] dev
+  ```
